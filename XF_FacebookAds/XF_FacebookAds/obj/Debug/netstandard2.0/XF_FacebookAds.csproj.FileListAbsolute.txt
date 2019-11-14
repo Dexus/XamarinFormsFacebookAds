@@ -1,0 +1,11 @@
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\bin\Debug\netstandard2.0\XF_FacebookAds.deps.json
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\bin\Debug\netstandard2.0\XF_FacebookAds.dll
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\bin\Debug\netstandard2.0\XF_FacebookAds.pdb
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\obj\Debug\netstandard2.0\XF_FacebookAds.csprojAssemblyReference.cache
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\obj\Debug\netstandard2.0\XF_FacebookAds.AssemblyInfoInputs.cache
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\obj\Debug\netstandard2.0\XF_FacebookAds.AssemblyInfo.cs
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\obj\Debug\netstandard2.0\XF_FacebookAds.dll
+C:\Users\effac\Desktop\XF_FacebookAds-master\XF_FacebookAds\XF_FacebookAds\obj\Debug\netstandard2.0\XF_FacebookAds.pdb
